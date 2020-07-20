@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\hello_world"
+    "\\hello_world",
+    "\\Ratuj ludzi",
+    "\\Ratuj ludzi\\Properties"
   ],
+  "SelectedNode": "\\Ratuj ludzi\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
