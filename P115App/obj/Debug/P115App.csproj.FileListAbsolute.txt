@@ -1,0 +1,15 @@
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\bin\Debug\P115App.exe.config
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\bin\Debug\P115App.exe
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\bin\Debug\P115App.pdb
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.csprojAssemblyReference.cache
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\MainWindow.g.cs
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\App.g.cs
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App_MarkupCompile.cache
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App_MarkupCompile.lref
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\MainWindow.baml
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.g.resources
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.Properties.Resources.resources
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.csproj.GenerateResource.cache
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.csproj.CoreCompileInputs.cache
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.exe
+D:\Pliki\Source\Repos\Hongse5885\Praktyki\P115App\obj\Debug\P115App.pdb
