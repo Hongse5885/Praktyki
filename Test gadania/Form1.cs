@@ -8,13 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Rozdział_2___Program_4
+namespace Test_gadania
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int len = Talker.BlahBlahBlah(textBox1.Text, (int)numericUpDown1.Value);
+            MessageBox.Show("Długość wiadomości to " + len);
         }
     }
 }

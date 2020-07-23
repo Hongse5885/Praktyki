@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Rozdział_2___Program_4.Properties
+namespace Test_gadania.Properties
 {
 
 

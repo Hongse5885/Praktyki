@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD870022-97A9-4057-BF2D-D2E2FF725925}</ProjectGuid>
+    <ProjectGuid>{8881023C-1795-44AE-B5FB-19BE4C0143C8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Rozdział_2___Program_4</RootNamespace>
-    <AssemblyName>Rozdział 2 - Program 4</AssemblyName>
+    <RootNamespace>Rozdział_2_Program_4</RootNamespace>
+    <AssemblyName>Rozdział 2-Program 4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
