@@ -51,5 +51,13 @@ namespace Zamiana
         {
             MessageBox.Show("Moje uszy mają " + EarSize + " cm szerokości", Name + " mówi...");
         }
+
+        public void TellMe(string message, Elephant whoSaidIt){
+        MessageBox.Show(whoSaidIt.Name + " mówi: " + message);
+        }
+
+        public void SpeakTo(Elephant whoToTalkTo, string message){
+        whoToTalkTo.TellMe(message, this);
+        }
     }
 }
