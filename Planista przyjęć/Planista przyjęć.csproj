@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{04C9FC62-8FBD-4B52-8E36-04E9D199A111}</ProjectGuid>
+    <ProjectGuid>{677817E7-D868-42E9-B7A0-6A15450EEF39}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Dzień_na_wyścigach</RootNamespace>
-    <AssemblyName>Dzień na wyścigach</AssemblyName>
+    <RootNamespace>Planista_przyjęć</RootNamespace>
+    <AssemblyName>Planista przyjęć</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

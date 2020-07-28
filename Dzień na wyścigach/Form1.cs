@@ -12,6 +12,8 @@ namespace Dzień_na_wyścigach
 {
     public partial class Form1 : Form
     {
+        DinnerParty dinnerParty;
+
         public Form1()
         {
             InitializeComponent();
